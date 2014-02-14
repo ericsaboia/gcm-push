@@ -75,7 +75,7 @@ sender.sendNoRetry(message, registrationIds-array, function (err, result) {
 ## Contribute!
 
 If you don't want to create a GitHub-Account, but still feel the urge to contribute... no problem!
-Just send me an [email](mailto:toothlessgear@finitebox.com) with your 
+Just send me an [email](mailto:esaboia@gmail.com) with your 
 pull request from your private repository.
 Of course, you can also send me a patch directly inline your mail.
 Any help is much appreciated!
@@ -99,7 +99,7 @@ Any help is much appreciated!
 
 (The MIT License)
 
-Copyright (c) 2013 Marcus Farkas &lt;toothlessgear@finitebox.com&gt;
+Copyright (c) 2013 Eric Saboia &lt;esaboia@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
